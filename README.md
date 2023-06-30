@@ -15,4 +15,4 @@ A video showcasing the usage of our tool can be found in this repository at http
 
 
 ## Further Documentation
-Further documentation and a guided use case can be found in this repository in the Manual.pdf.
+Further documentation and a guided use case can be found in this repository in the Manual.pdf at https://github.com/Process-Analytics-Group/R-YZ-BPM-Demo-Submission/blob/main/docs/Manual.pdf.
