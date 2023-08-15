@@ -7,7 +7,7 @@ The tool can be accessed at https://deich.pa.informatik.uni-kiel.de/process-anal
 
 Please log in using the following credentials:\
 Username: EDOC2023TestUser\
-Password: EDOC2023TestUser
+Password: EDOC2023TestUser!
 
 
 ## Video Tutorial
