@@ -11,7 +11,7 @@ Password: EDOC2023TestUser!
 
 
 ## Video Tutorial
-A video showcasing the usage of our tool can be found in this repository at https://github.com/Process-Analytics-Group/R-YZ-EDOC-Demo-Submission/blob/main/docs/bpm2023-demo.mp4.
+A video showcasing the usage of our tool can be found in this repository at [https://github.com/Process-Analytics-Group/R-YZ-EDOC-Demo-Submission/blob/main/docs/bpm2023-demo.mp4](https://github.com/Process-Analytics-Group/R-YZ-EDOC-Demo-Submission/blob/main/docs/edoc2023-demo.mp4).
 
 
 ## Further Documentation
